@@ -1,2 +1,2 @@
-# topicos-1-atividades
-atividades feitas na disciplina de Topicos Especiais em Tecnologia I
+# Tópicos Especiais em Tecnologia
+Atividades desenvolvidas na disciplina de Tópicos Especiais em Tecnologia I
